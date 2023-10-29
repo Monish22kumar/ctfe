@@ -64,7 +64,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gh-pages": "^6.0.0",
-    "@babel/plugin-proposal-private-property-in-object": "your-preferred-version"
+    "gh-pages": "^6.0.0"
   }
 }
